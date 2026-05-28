@@ -2,7 +2,7 @@ package org.git;
 
 public class Allclass {
 private void retr() {
-	System.out.println("hfdhd");
+	System.out.println("code from feature 2");
 
 }
 }
